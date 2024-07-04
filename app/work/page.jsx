@@ -27,7 +27,7 @@ const projects = [
     description: 
     'BlogFusion: Implemented robust authentication using JWT and Google OAuth , with state management. Built a secure admin dashboard to manage posts, comments, and users with full CRUD operation. Enhanced user experience with dark mode and interactive commenting features.',
     stack: [
-      {name:"React.js"}, {name: "Node.js"}, {name: "MongoDB"}, {name: "Express.js"}
+      {name:"React.js"}, {name: "Node.js"}, {name: "MongoDB"}
     ],
     image: '/assets/work/thumb41.png',
     live: "",
