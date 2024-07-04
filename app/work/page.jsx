@@ -40,7 +40,7 @@ const projects = [
     description: 
     'AI Mock Interview Buddy: Developed a mock interview app to enhance interview preparation, integrating Gemini AI for realistic question generation and response analysis. Implemented authentication using Clerk; managed data with PostgreSQL and Drizzle ORM. Enabled real-time speech-to-text.',
     stack: [
-      {name:"Next.js"}, {name: "Tailwind.css"}, {name: "PostgreSQL"}
+      {name:"Next.js"}, {name: "Tailwind.css"}
     ],
     image: '/assets/work/thumb42.png',
     live: "https://ai-mock-interview-buddy.vercel.app/",
